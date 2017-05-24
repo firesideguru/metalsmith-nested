@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-nested",
+  "version": "0.3.1",
+  "description": "A metalsmith plugin that extends metalsmith-layouts to use nested layouts",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firesideguru/metalsmith-nested.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "layouts",
+    "nested"
+  ],
+  "author": "Kevin Douglas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firesideguru/metalsmith-nested/issues"
+  },
+  "homepage": "https://github.com/firesideguru/metalsmith-nested#readme"
+}
