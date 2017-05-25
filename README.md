@@ -35,7 +35,6 @@ const
 
 Metalsmith(__dirname)
   .source('src')
-  
   .destination('build')
   
   .use(nested({
@@ -69,7 +68,7 @@ Metalsmith(__dirname)
 
   .use(nested())
   
-  .use(layouts('handlebars')
+  .use(layouts('handlebars'))
   
   .build(function(err) {
     if (err) throw err;
