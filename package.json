@@ -13,9 +13,10 @@
   "keywords": [
     "metalsmith",
     "layouts",
+    "handlebars",
     "nested"
   ],
-  "author": "Kevin Douglas",
+  "author": "Kevin Douglas (firesideguru)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/firesideguru/metalsmith-nested/issues"
