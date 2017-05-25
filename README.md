@@ -103,6 +103,7 @@ Copy the `example` directory outside of the `metalsmith-nested` package
 
 ```bash
 $ cp example ../example
+```
 
 Navigate to the `example` directory
 
