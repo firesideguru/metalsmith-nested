@@ -71,10 +71,10 @@ Results in `layouts/child.html`:
 <!doctype html>
 <html>
 <head>
-  <title>Page Title</title>
+  <title>{{title}}</title>
 </head>
 <body>
-  <h1>Page Heading</h1>
+  <h1>{{heading}}</h1>
   {{{contents}}}
 </body>
 </html>
