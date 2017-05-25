@@ -74,7 +74,7 @@ Results in `layouts/child.html`:
   <title>Page Title</title>
 </head>
 <body>
-  <h1>Page Heading
+  <h1>Page Heading</h1>
   {{{contents}}}
 </body>
 </html>
