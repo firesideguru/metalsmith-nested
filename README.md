@@ -22,7 +22,7 @@ Configuration in `metalsmith.json`:
     "metalsmith-nested": {
       "directory": "nested",
       "generated": "layouts"
-    }
+    },
     "metalsmith-layouts": {
       "engine": "handlebars"
     }
