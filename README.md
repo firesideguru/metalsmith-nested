@@ -19,7 +19,10 @@ Configuration in `metalsmith.json`:
 ```json
 {
   "plugins": {
-    "metalsmith-nested",
+    "metalsmith-nested": {
+      directory: "nested",
+      generated: "layouts"
+    }
     "metalsmith-layouts": {
       "engine": "handlebars"
     }
