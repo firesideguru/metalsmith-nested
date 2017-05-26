@@ -102,7 +102,7 @@ It is possible to combine (nest) multiple layouts.
 Copy the `example` directory outside of the `metalsmith-nested` package
 
 ```bash
-$ cp example ../example
+$ cp -rf example ../example
 ```
 
 Navigate to the `example` directory
