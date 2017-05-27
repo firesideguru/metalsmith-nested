@@ -14,6 +14,8 @@ $ npm install --save metalsmith-nested
 
 ## Example
 
+> Child layouts are nested inside parent layouts replacing the `{{{contents}}}` expression.
+
 Configuration in `metalsmith.json`:
 
 ```json
