@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-nested",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "A metalsmith plugin that extends metalsmith-layouts to use nested layouts",
   "main": "lib/index.js",
   "scripts": {
